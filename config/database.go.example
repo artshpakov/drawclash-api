@@ -1,0 +1,7 @@
+package config
+
+const (
+	DB_ADDR = "db"
+	DB_USER = "postgres"
+	DB_NAME = "clashdb"
+)
